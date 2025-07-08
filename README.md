@@ -1,6 +1,6 @@
 # OCR-Based Access Control System Application
 
-![Banner Image](path/to/banner-image.png)
+![Banner Image](assets/ocr-logo.png)
 
 ## 📌 Description
 
