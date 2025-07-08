@@ -10,29 +10,38 @@ Developed using Python, PaddleOCR, PostgreSQL, and Firebase, the system provides
 
 ---
 
+## 🖼️ Entrance UI
+  <div align="center">
+    <img src="assets/Entrance-1.png" alt="UI Preview" width="600"/>
+    <img src="assets/Entrance-2.png" alt="UI Preview" width="600"/>
+  </div>
+
+## 🖼️ Exit UI
+  <div align="center">
+    <img src="assets/Exit-1.png" alt="UI Preview" width="600"/>
+    <img src="assets/Exit-2.png" alt="UI Preview" width="600"/>
+  </div>
+  
 ## 🖼️ OCR-Based Access Control System
 
 | Sample Prototype - Front | Sample Prototype - Back |
 |--------------|--------------|
 | ![Screenshot 1](assets/sample-prototype-1.png) | ![Screenshot 2](assets/sample-prototype-2.png) |
 
-| UI Entrance App | UI Exit App |
-|--------------|--------------|
-| ![Screenshot 1](assets/sample-prototype-1.png) | ![Screenshot 2](assets/sample-prototype-2.png) |
+## 🖼️ System Architecture
+  <div align="center">
+    <img src="assets/Exit-1.png" alt="UI Preview" width="600"/>
+  </div>
+The web-based app monitoring is not included in this repository. You may develop your own web-based app by using the firebase real-time database for data synchronization.
 
-> Add more images or diagrams here to show UI/UX, architecture, or results.
 
 ---
 
 ## ✨ Features
 
-- ✅ Real-time sensor data integration
-- 🌐 Responsive UI for mobile and desktop
-- 📊 Dynamic data visualization using charts and maps
-- 🔔 Push notification alerts
-- 🔐 User authentication and admin panel
-- 📁 RESTful API integration
-- 💾 Cloud database support (e.g., Firebase / MongoDB)
+- ✅ Real-time data synchronization using Firebase
+- ⏱️ Faster and automated visitor entrance and exit for gated communities
+- 📊 Extract relevant information for valid IDs using PaddleOCR
 
 ---
 
