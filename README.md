@@ -10,11 +10,15 @@ Developed using Python, PaddleOCR, PostgreSQL, and Firebase, the system provides
 
 ---
 
-## 🖼️ Images
+## 🖼️ OCR-Based Access Control System
 
 | Sample Prototype - Front | Sample Prototype - Back |
 |--------------|--------------|
-| ![Screenshot 1](path/to/screenshot1.png) | ![Screenshot 2](path/to/screenshot2.png) |
+| ![Screenshot 1](assets/sample-prototype-1.png) | ![Screenshot 2](assets/sample-prototype-2.png) |
+
+| UI Entrance App | UI Exit App |
+|--------------|--------------|
+| ![Screenshot 1](assets/sample-prototype-1.png) | ![Screenshot 2](assets/sample-prototype-2.png) |
 
 > Add more images or diagrams here to show UI/UX, architecture, or results.
 
