@@ -39,9 +39,10 @@ The web-based app monitoring is not included in this repository. You may develop
 
 ## ✨ Features
 
-- ✅ Real-time data synchronization using Firebase
+- 📩 Real-time data synchronization using Firebase
 - ⏱️ Faster and automated visitor entrance and exit for gated communities
 - 📊 Extracts relevant information for valid IDs using PaddleOCR
+- ✅ Applicable for various visitor entry and exit management such as for pedestrians, visitor vehicle entry/exit, offices, schools and campuses, and gated areas.
 
 ---
 
