@@ -48,6 +48,14 @@ The web-based app monitoring is not included in this repository. You may develop
 
 ---
 
+## ‼️ Requirements
+
+- 📷 High Resolution Camera for ID Scanning
+- 🖨️ Thermal Printer for QR Code Printing
+- 💻 Raspberry Pi 4 or above / Windows PC
+
+---
+
 ## 🚀 How to Use
   <div align="center">
     <img src="assets/How-to-use.png" alt="UI Preview" width="600"/>
