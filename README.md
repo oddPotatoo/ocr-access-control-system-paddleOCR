@@ -30,7 +30,7 @@ Developed using Python, PaddleOCR, PostgreSQL, and Firebase, the system provides
 
 ## 🖼️ System Architecture
   <div align="center">
-    <img src="assets/Exit-1.png" alt="UI Preview" width="600"/>
+    <img src="assets/OCR System Architecture.png" alt="UI Preview" width="600"/>
   </div>
 The web-based app monitoring is not included in this repository. You may develop your own web-based app by using the firebase real-time database for data synchronization.
 
@@ -41,22 +41,12 @@ The web-based app monitoring is not included in this repository. You may develop
 
 - ✅ Real-time data synchronization using Firebase
 - ⏱️ Faster and automated visitor entrance and exit for gated communities
-- 📊 Extract relevant information for valid IDs using PaddleOCR
+- 📊 Extracts relevant information for valid IDs using PaddleOCR
 
 ---
 
-## 🚀 How to Use / Install (Optional)
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/your-repo-name.git
-
-# Navigate to project directory
-cd your-repo-name
-
-# Install dependencies
-npm install
-
-# Run the app
-npm start
+## 🚀 How to Use
+  <div align="center">
+    <img src="assets/How-to-use.png" alt="UI Preview" width="600"/>
+  </div>
 
