@@ -4,7 +4,7 @@
 
 ## 📌 Description
 
-The proposed OCR-Based Access Control System for Visitor Vehicle Entry in Gated Areas integrates these technologies to automate visitor verification through ID scanning. The system extracts essential data from valid IDs via OCR, and generates a unique QR code as a temporary access pass. Utilizing open-source and cost-efficient hardware, including a Raspberry Pi 4, cameras, thermal printer, and LCD display, the system provides a scalable, secure, and user-friendly solution. Its implementation is expected to reduce processing times, minimize human error, and improve both traffic flow and security in gated communities.
+The OCR-Based Access Control System for Visitor Vehicle Entry in Gated Areas integrates these technologies to automate visitor verification through ID scanning. The system extracts essential data from valid IDs via OCR, and generates a unique QR code as a temporary access pass. Utilizing open-source and cost-efficient hardware, including a Raspberry Pi 4, cameras, thermal printer, and LCD display, the system provides a scalable, secure, and user-friendly solution. Its implementation is expected to reduce processing times, minimize human error, and improve both traffic flow and security in gated communities.
 
 Developed using Python, PaddleOCR, PostgreSQL, and Firebase, the system provides efficient method to automate visitor entries in private subdivisions, offices, and other gated communities who regulates visitors by ID presentation.
 
